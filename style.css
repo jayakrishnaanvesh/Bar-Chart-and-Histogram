@@ -1,0 +1,21 @@
+
+.header{
+
+        height: 60px;
+        background:cadetblue;
+        margin-bottom:15px
+}
+.footer{
+
+        height: 60px;
+        background:#aaaaaa;
+        margin-bottom:15px;
+        text-align: center;
+}
+.graph{
+        text-align:center;
+        float: center;       
+}
+body{
+   margin:0px;     
+}
